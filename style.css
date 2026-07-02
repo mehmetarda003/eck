@@ -19,7 +19,7 @@ body {
   margin: 0;
   font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
   background: var(--white);
-  color: var(--text-main);
+  color: #FFF9C4;
   min-height: 100vh;
   padding-top: 4rem;
   position: relative;
